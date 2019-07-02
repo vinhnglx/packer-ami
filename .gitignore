@@ -1,0 +1,10 @@
+# Ignore json-crendential for Machine Image
+
+json-credential.json
+
+# Ignore machine image files
+
+/base/base.json
+/base-docker/base-docker.json
+/base-full-stack/base-full-stack.json
+/base-nginx/base-nginx.json
